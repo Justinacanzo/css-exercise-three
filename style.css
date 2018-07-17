@@ -1,0 +1,38 @@
+body
+  {font-size: 14px;
+}
+
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+/*added a closing curly brace above*/
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+h1 {
+  font-family: sans-serif; /*inserted a colon after property*/
+  font-size: 2em;
+}
+
+.example, h3 {
+  padding-top: 30px;
+  text-align: center; /*added colon and semi colon to property and value*/
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0; /*added colon to property*/
+  width: 100%;
+}
+/*Added closing curyly braces above*/
